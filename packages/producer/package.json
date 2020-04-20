@@ -1,0 +1,14 @@
+{
+  "name": "@rollup-yarn/producer",
+  "version": "1.0.0",
+  "main": "./lib/index.js",
+  "module": "./lib/index.js",
+  "sideEffects": false,
+  "scripts": {
+    "build": "tsc"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  }
+}
